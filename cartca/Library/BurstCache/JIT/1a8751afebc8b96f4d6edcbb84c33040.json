@@ -1,0 +1,8 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.UnsafeUtility::MemCpyReplicate",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.UnsafeUtility.MemCpyReplicate(void* destination, void* source, int size, int count) -> void_4791bd9c37eb168506f2799a09f58055"
+    }
+  ]
+}
